@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Enemy.cpp
+C:\Users\Alpo\source\repos\Project1\Project1\Enemy.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EnemyH.cpp
+  EnemyQ.cpp
+  Gun.cpp
+  Road.cpp
+  Source.cpp
+C:\Users\Alpo\source\repos\Project1\Project1\Enemy.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Alpo\source\repos\Project1\Project1\Source.cpp(57,15): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Tower.cpp
+  Generating Code...
+C:\Users\Alpo\source\repos\Project1\Project1\Source.cpp(230,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\Alpo\source\repos\Project1\Debug\towerDefense.exe

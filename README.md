@@ -8,5 +8,3 @@ using points earned by destroying enemies. There are 3 types of enemies with dif
 configurations (faster enemy, stronger enemy and a boss). After surviving the wave, player is challenged
 with the boss(currenty removed due malfunction), which is the strongest enemy. Player needs to upgrade his/her towers
 to survive all three waves.
-
-For more information, contact me @ ozerenalp4@gmail.com
